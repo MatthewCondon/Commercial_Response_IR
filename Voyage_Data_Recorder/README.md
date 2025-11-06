@@ -6,6 +6,7 @@ There are various kinds of Voyage Data Recorders. Common variations are pictured
 <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/d03918ca-a801-491b-9b25-51611b1aaae2" />
 <img width="500" height="301" alt="image" src="https://github.com/user-attachments/assets/02951109-45ff-4d6b-8066-e3998e3c4172" />
 
+
 The Voyage Data Recorder uses proprietary software to organize collected NMEA data into precise time-based groupings. This system ensures that navigational, sensor, and communication information are synchronized accurately, allowing investigators to reconstruct events in chronological order and analyze vessel performance, communications, and incidents with high accuracy.
 
 # National Transportation Security Board (NTSB)
