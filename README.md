@@ -1,4 +1,4 @@
-# NMEA_VDR_FIR
+# Forensic Analysis of Commercial Navigation Systems
 ## Table of Contents
 - [Voyage Data Recorder Background](/Voyage_Data_Recorder)
 - [Voyage Data Recorder Methodology](/Voyage_Data_Recorder)
