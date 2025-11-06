@@ -1,13 +1,13 @@
 # NMEA_VDR_FIR
 ## Table of Contents
-- [Flowchart](#README.md)
-- [NMEA-2000 Background](/NMEA)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [File Structure](#file-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+- [Voyage Data Recorder Background](/Voyage_Data_Recorder)
+- [Voyage Data Recorder Methodology](/Voyage_Data_Recorder)
+- [NMEA Background](/NMEA)
+- [NMEA Methodology](/NMEA/Data_Analysis)
+- [Computer Triage Background](/Computer_Triage)
+- [Computer Triage Methodology](/Computer_Triage)
+- Tools
+  - [Raspberry Pi](/Set_Up/Raspberry_Pi)
 
 ## Flow Chart
 <img width="2016" height="1262" alt="Capstone Flowchart" src="https://github.com/user-attachments/assets/7b370c5c-f44c-48d6-b6ee-62850cdc86e8" />
